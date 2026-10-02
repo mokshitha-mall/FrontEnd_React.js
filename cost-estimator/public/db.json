@@ -1,0 +1,66 @@
+{
+    "users": [
+    {
+        "id": "u1",
+        "name": "Mokshitha"
+    },
+    {
+        "id": "u2",
+        "name": "Swetha"
+    },
+    {
+        "id": "u3",
+        "name": "Tabu"
+    },
+    {
+        "id": "u4",
+        "name": "Rishitha"
+    }
+],
+"projects": [
+    {
+        "id": 1,
+        "name": "Website Development",
+        "client": "ABC Technologies",
+        "status": "Completed",
+        "ownerId": "u1",
+        "startDate": "2026-09-01",
+        "endDate": "2026-09-15",
+        "hours": 120,
+        "finalCost": 530332
+    },
+    {
+        "id": 2,
+        "name": "Mobile Application",
+        "client": "XYZ Solutions",
+        "status": "In Progress",
+        "ownerId": "u2",
+        "startDate": "2026-09-05",
+        "endDate": "2026-09-20",
+        "hours": 150,
+        "finalCost": 750000
+    },
+    {
+        "id": 3,
+        "name": "Dashboard Project",
+        "client": "Tech Company",
+        "status": "Planning",
+        "ownerId": "u3",
+        "startDate": "2026-09-10",
+        "endDate": "2026-09-25",
+        "hours": 90,
+        "finalCost": 0
+    },
+    {
+        "id": 4,
+        "name": "Cloud Migration",
+        "client": "Global Logistics",
+        "status": "In Progress",
+        "ownerId": "u4",
+        "startDate": "2026-09-12",
+        "endDate": "2026-10-05",
+        "hours": 180,
+        "finalCost": 920000
+    }
+]
+}
